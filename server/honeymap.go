@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/d1str0/hpfeeds"
-	"github.com/jt6211/sockjs-go/sockjs"
+	"github.com/jatrost/sockjs-go/sockjs"
 )
 
 const staticDir = "../client"
