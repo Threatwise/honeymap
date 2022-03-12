@@ -23,7 +23,7 @@ instead of Go and [socket.io](http://socket.io/) instead of SockJS.)
 
 Example
 -------
-![http://map.honeycloud.net/](https://i.ibb.co/QJVqjvz/Capture.png)
+![http://map.honeycloud.net/](https://i.ibb.co/nwyV8MZ/Capture.png)
 
 * [http://map.honeycloud.net/](http://map.honeycloud.net/)
 
