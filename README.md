@@ -39,11 +39,6 @@ Authors
 * [Mark Schloesser](mailto:mark.schloesser@rwth-aachen.de) ([rep](https://github.com/rep/))
 * [Johannes Gilger](mailto:heipei@heipei.net) ([heipei](https://github.com/heipei/))
 
-Forks
------
-* [German Telecom (DTAG) Sicherheitstacho](http://www.sicherheitstacho.eu/)
-* [Computer Incident Response Center Luxembourg](http://map.circl.lu/)
-
 Installation
 ------------
 * apt-get install git golang mercurial make
