@@ -14,7 +14,7 @@ class Honeymap
     @mapElem = jQuery('#world-map')
     @fitSize()
     @mapElem.vectorMap(
-      backgroundColor: ''
+      backgroundColor: ''#6351ce
       markerStyle:
         initial:
           fill: config.colors.src.fill

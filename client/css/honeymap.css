@@ -1,10 +1,10 @@
 body {
   margin: 0px;
   padding: 0px;
-  background-color: #021320;
+  background-color: #6351ce;
   color: white;
-  background: -moz-linear-gradient(top, #021320, #03244b, #021320);
-  background: -webkit-linear-gradient(top, #021320, #03244b, #021320);
+  background: -moz-linear-gradient(top, #6351ce, #6351ce, #6351ce);
+  background: -webkit-linear-gradient(top, #6351ce, #6351ce, #6351ce);
 }
 
 a {
@@ -13,6 +13,7 @@ a {
 
 #world-map {
   margin: 0px auto 0px auto;
+  background-color: #6351ce;
 }
 
 #log {
@@ -20,7 +21,7 @@ a {
   overflow: auto;
   overflow-x: hidden;
   white-space: nowrap;
-  background-color: black;
+  background-color: #7e7c82;
   color: white;
   border: 1px solid white;
   padding: 5px;
@@ -61,7 +62,7 @@ a {
 
 #logo2 {
   position: absolute;
-  right: 1%;
+  right: 5%;
   bottom: 1%;
   max-width: 15%;
 }
