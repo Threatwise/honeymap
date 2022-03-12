@@ -5,9 +5,7 @@ HoneyMap is a web application which visualizes a live stream of
 GPS locations on a SVG world map. In principle, it can be used
 with any stream of GPS data. For our application, we use honeypot
 captures, provided by several [hpfeeds](https://github.com/rep/hpfeeds)
-from the [Honeynet Project](http://www.honeynet.org/). For more information
-on our instance of HoneyMap, see
-[HoneyMap - Visualizing Worldwide Attacks in Real-Time](http://www.honeynet.org/node/960).
+from the [Honeynet Project](http://www.honeynet.org/).
 
 Front-end code is written in [CoffeeScript](http://coffeescript.org/) and makes use of
 [SockJS](http://sockjs.org/) (HTML5 websockets), [jQuery](http://jquery.com/),
@@ -25,7 +23,6 @@ Example
 -------
 ![http://map.honeycloud.net/](https://i.ibb.co/nwyV8MZ/Capture.png)
 
-* [http://map.honeycloud.net/](http://map.honeycloud.net/)
 
 License
 -------
