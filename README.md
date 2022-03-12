@@ -21,6 +21,7 @@ instead of Go and [socket.io](http://socket.io/) instead of SockJS.)
 
 Example
 -------
+
 ![http://map.honeycloud.net/](https://i.ibb.co/nwyV8MZ/Capture.png)
 
 
@@ -46,7 +47,7 @@ Forks
 Installation
 ------------
 * apt-get install git golang mercurial make
-* git clone https://github.com/fw42/honeymap
+* git clone https://github.com/Threatwise/honeymap.git
 * In honeymap/server/
   * go get
   * go build
